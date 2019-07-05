@@ -4,7 +4,7 @@
   "description": "demo from filter files line by line",
   "main": "index.js",
   "dependencies": {
-    "byline": "^4.2.1",
+    "byline": "^5.0.0",
     "through": "^2.3.8"
   },
   "devDependencies": {},
